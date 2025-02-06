@@ -1,7 +1,7 @@
 
 <br><br>
-<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/Dashboard.jpg" alt="Image Description" width="300">
-<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/MTD%20Report.jpg" width="300">
-<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/Same%20Period%20Last%20Year%20report.jpg" alt="Image Description" width="300">
+<img src="https://github.com/krishna9212/power-Bi-/blob/main/Power_BI_Dashboard-main/Screenshot%202025-02-06%20184421.png" alt="Image Description" width="300">
+<img src="https://github.com/krishna9212/power-Bi-/blob/main/Power_BI_Dashboard-main/Screenshot%202025-02-06%20184523.png" width="300">
+<img src="https://github.com/krishna9212/power-Bi-/blob/main/Power_BI_Dashboard-main/Screenshot%202025-02-06%20184619.png" alt="Image Description" width="300">
 
 
